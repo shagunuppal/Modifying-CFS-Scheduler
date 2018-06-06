@@ -1,4 +1,4 @@
-# Modifying-CFS-Scheduler
+# Modifying-CFS-Scheduler via system call in linux kernel
 
 <b> Course Project for Operating Systems (CSE231) </b><br>
 <b> Instructor : Dr. Sambuddho Chakravarty </b>
